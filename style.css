@@ -1,4 +1,44 @@
-body {background-color:tan;}
-h1{color:green;}
+body
+{
+    background-color:black;
+    font-family: arial;
+    color: white;
+}
 
+h1
+{
+    color:gray;
+    font-family: verdana;
+}
 
+.maindiv
+{
+    background-color: white;
+    color: black;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto;
+}
+
+table.valueinputs
+{
+    margin: auto;
+    text-align: left;
+}
+
+.rangeStyle
+{
+    min-width: 100px;
+}
+
+button
+{
+    min-width: 110px;
+}
+
+footer
+{
+    text-align: left;
+}
